@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at:
 
-Design:
+Design: https://silvija96.github.io/BMIND/
 
 ## 🎯 Project features/goals
 
@@ -61,7 +61,7 @@ There is no tests for this project.
 
 ## Authors
 
-Silvija:
+Silvija: https://github.com/Silvija96/BMIND
 
 ## ⚠️ License
 
