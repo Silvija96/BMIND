@@ -8,9 +8,9 @@ _functional website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at: https://silvija96.github.io/BMIND/
 
-Design: https://silvija96.github.io/BMIND/
+Design:
 
 ## 🎯 Project features/goals
 
