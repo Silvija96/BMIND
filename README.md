@@ -1,4 +1,4 @@
-# BMI & Character coounting
+# BMI coounting
 
 _functional website project_
 
